@@ -1,6 +1,11 @@
 # PizzaSalesPowerBI
 Pizza Sales Report - Power BI Dashboard
 
+![image](https://github.com/user-attachments/assets/e2fc8635-a390-4df9-9002-6b75fad995f6)
+
+![image](https://github.com/user-attachments/assets/2591b722-ebb6-42d0-a638-c226b917439e)
+
+
 **Problem Statement**
 
 A Pizzeria needs a data-driven approach to analyze sales performance, identify customer preferences, and optimize operations. The goal is to:
